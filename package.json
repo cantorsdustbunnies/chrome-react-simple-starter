@@ -29,8 +29,6 @@
 	"dependencies": {
 		"@mapbox/react-colorpickr": "^8.1.2",
 		"react": "^16.4.1",
-		"react-color": "^2.14.1",
-		"react-colors-picker": "^2.3.1",
 		"react-dom": "^16.4.1",
 		"styled-components": "^3.3.3"
 	}
